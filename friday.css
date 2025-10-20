@@ -110,6 +110,7 @@ audio{
     color: aqua;
     background-color: black;
     border-radius: 5px;
+    margin-top: 5px;
 }
 audio:hover{
     color: firebrick;
