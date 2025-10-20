@@ -187,17 +187,15 @@ h3{
 .list-7 a:hover{
     color: red;
 }
-.bottom{
-    text-align: center;
-    color: white;
-    padding: 5px;
-    border: 3px dotted blue;
-    justify-content: end;
-}
-.bottom p{
+#bottom-text{
+    color: rgb(124, 340, 240);
     font-family: cursive;
+    border: 3px dotted black;
+    text-align: center;
+}
+#bottom-text .p-10{
     font-size: 20px;
-    color: yellowgreen;
+    color: blue;
     text-align: center;
 }
 marquee{
