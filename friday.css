@@ -27,6 +27,7 @@ img{
     padding: 5px 10px;
     text-decoration: none;
     border-radius: 10px;
+    transition: 0.2s ease-in-out;
 
 }
 .navlinks a:hover{
@@ -217,4 +218,5 @@ color: chartreuse;
 }
 .k-5:hover{
     color: deepskyblue;
+
 }
